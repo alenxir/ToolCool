@@ -1,0 +1,6 @@
+{
+  "name": "ToolCool - ExamReady",
+  "description": "Professional utility platform for preparing exam photos, signatures, PDFs, and application documents client-side.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
